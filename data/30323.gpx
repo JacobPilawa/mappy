@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<wpt lat="37.87696" lon="-122.26568">
+<time>2023-03-14T00:24:10Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</wpt>
+<trk>
+<name>30323</name>
+<trkseg>
+<trkpt lat="37.87698" lon="-122.26568">
+<ele>84</ele>
+<time>2023-03-14T00:00:00Z</time></trkpt>
+<trkpt lat="37.8775" lon="-122.26559">
+<ele>85</ele>
+<time>2023-03-14T00:00:21Z</time></trkpt>
+<trkpt lat="37.87888" lon="-122.26575">
+<ele>88</ele>
+<time>2023-03-14T00:01:17Z</time></trkpt>
+<trkpt lat="37.88607" lon="-122.26661">
+<ele>118</ele>
+<time>2023-03-14T00:06:06Z</time></trkpt>
+<trkpt lat="37.88785" lon="-122.26685">
+<ele>134</ele>
+<time>2023-03-14T00:07:18Z</time></trkpt>
+<trkpt lat="37.88846" lon="-122.26679">
+<ele>140</ele>
+<time>2023-03-14T00:07:42Z</time></trkpt>
+<trkpt lat="37.88895" lon="-122.26673">
+<ele>143</ele>
+<time>2023-03-14T00:08:02Z</time></trkpt>
+<trkpt lat="37.8898" lon="-122.26696">
+<ele>151</ele>
+<time>2023-03-14T00:08:37Z</time></trkpt>
+<trkpt lat="37.89096" lon="-122.26725">
+<ele>160</ele>
+<time>2023-03-14T00:09:24Z</time></trkpt>
+<trkpt lat="37.8915" lon="-122.26723">
+<ele>164</ele>
+<time>2023-03-14T00:09:46Z</time></trkpt>
+<trkpt lat="37.89221" lon="-122.267">
+<ele>169</ele>
+<time>2023-03-14T00:10:15Z</time></trkpt>
+<trkpt lat="37.89257" lon="-122.26695">
+<ele>171</ele>
+<time>2023-03-14T00:10:30Z</time></trkpt>
+<trkpt lat="37.89276" lon="-122.26708">
+<ele>172</ele>
+<time>2023-03-14T00:10:38Z</time></trkpt>
+<trkpt lat="37.89292" lon="-122.26733">
+<ele>173</ele>
+<time>2023-03-14T00:10:49Z</time></trkpt>
+<trkpt lat="37.89308" lon="-122.26759">
+<ele>174</ele>
+<time>2023-03-14T00:10:59Z</time></trkpt>
+<trkpt lat="37.89316" lon="-122.26769">
+<ele>175</ele>
+<time>2023-03-14T00:11:03Z</time></trkpt>
+<trkpt lat="37.89413" lon="-122.26621">
+<ele>199</ele>
+<time>2023-03-14T00:12:04Z</time></trkpt>
+<trkpt lat="37.89317" lon="-122.2677">
+<ele>175</ele>
+<time>2023-03-14T00:13:05Z</time></trkpt>
+<trkpt lat="37.89309" lon="-122.26759">
+<ele>174</ele>
+<time>2023-03-14T00:13:10Z</time></trkpt>
+<trkpt lat="37.89285" lon="-122.26715">
+<ele>173</ele>
+<time>2023-03-14T00:13:27Z</time></trkpt>
+<trkpt lat="37.89264" lon="-122.26699">
+<ele>171</ele>
+<time>2023-03-14T00:13:37Z</time></trkpt>
+<trkpt lat="37.89232" lon="-122.26698">
+<ele>169</ele>
+<time>2023-03-14T00:13:49Z</time></trkpt>
+<trkpt lat="37.89187" lon="-122.26712">
+<ele>167</ele>
+<time>2023-03-14T00:14:08Z</time></trkpt>
+<trkpt lat="37.8915" lon="-122.26721">
+<ele>165</ele>
+<time>2023-03-14T00:14:23Z</time></trkpt>
+<trkpt lat="37.89098" lon="-122.26726">
+<ele>160</ele>
+<time>2023-03-14T00:14:44Z</time></trkpt>
+<trkpt lat="37.88978" lon="-122.26695">
+<ele>151</ele>
+<time>2023-03-14T00:15:33Z</time></trkpt>
+<trkpt lat="37.88895" lon="-122.26675">
+<ele>143</ele>
+<time>2023-03-14T00:16:07Z</time></trkpt>
+<trkpt lat="37.88787" lon="-122.26684">
+<ele>134</ele>
+<time>2023-03-14T00:16:50Z</time></trkpt>
+<trkpt lat="37.88606" lon="-122.26661">
+<ele>118</ele>
+<time>2023-03-14T00:18:03Z</time></trkpt>
+<trkpt lat="37.87888" lon="-122.26574">
+<ele>88</ele>
+<time>2023-03-14T00:22:52Z</time></trkpt>
+<trkpt lat="37.87749" lon="-122.26556">
+<ele>85</ele>
+<time>2023-03-14T00:23:48Z</time></trkpt>
+<trkpt lat="37.87696" lon="-122.26568">
+<ele>84</ele>
+<time>2023-03-14T00:24:10Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

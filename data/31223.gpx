@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<wpt lat="37.877021" lon="-122.265607">
+<time>2023-03-14T00:00:00Z</time>
+<name>Start on S</name>
+<cmt>Start on Spruce Street</cmt>
+<desc>Start on Spruce Street</desc>
+<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="37.877044" lon="-122.265618">
+<time>2023-03-14T00:00:01Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Virginia Street</cmt>
+<desc>Turn left onto Virginia Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.875469" lon="-122.277998">
+<time>2023-03-14T00:06:38Z</time>
+<name>Turn left</name>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.875408" lon="-122.278057">
+<time>2023-03-14T00:06:41Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Virginia Street</cmt>
+<desc>Turn right onto Virginia Street</desc>
+<sym>Right</sym>
+</wpt>
+<wpt lat="37.874544" lon="-122.284772">
+<time>2023-03-14T00:10:17Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Ohlone Greenway</cmt>
+<desc>Turn right onto Ohlone Greenway</desc>
+<sym>Right</sym>
+</wpt>
+<wpt lat="37.874601" lon="-122.284855">
+<time>2023-03-14T00:10:20Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Virginia Street</cmt>
+<desc>Turn left onto Virginia Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.874601" lon="-122.284855">
+<time>2023-03-14T00:19:30Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Ohlone Greenway</cmt>
+<desc>Turn right onto Ohlone Greenway</desc>
+<sym>Right</sym>
+</wpt>
+<wpt lat="37.874544" lon="-122.284772">
+<time>2023-03-14T00:19:33Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Virginia Street</cmt>
+<desc>Turn left onto Virginia Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.875408" lon="-122.278057">
+<time>2023-03-14T00:23:09Z</time>
+<name>Turn left</name>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.875469" lon="-122.277998">
+<time>2023-03-14T00:23:12Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Virginia Street</cmt>
+<desc>Turn right onto Virginia Street</desc>
+<sym>Right</sym>
+</wpt>
+<wpt lat="37.877044" lon="-122.265618">
+<time>2023-03-14T00:29:49Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Spruce Street</cmt>
+<desc>Turn left onto Spruce Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.877058" lon="-122.265618">
+<time>2023-03-14T00:29:50Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</wpt>
+<trk>
+<name>31223</name>
+<trkseg>
+<trkpt lat="37.877021" lon="-122.265607">
+<ele>85</ele>
+<time>2023-03-14T00:00:00Z</time></trkpt>
+<trkpt lat="37.877021" lon="-122.265607">
+<ele>85</ele>
+<time>2023-03-14T00:00:00Z</time></trkpt>
+<trkpt lat="37.877044" lon="-122.265618">
+<ele>85</ele>
+<time>2023-03-14T00:00:01Z</time></trkpt>
+<trkpt lat="37.877008" lon="-122.265744">
+<ele>84</ele>
+<time>2023-03-14T00:00:05Z</time></trkpt>
+<trkpt lat="37.876884" lon="-122.266668">
+<ele>79</ele>
+<time>2023-03-14T00:00:35Z</time></trkpt>
+<trkpt lat="37.875452" lon="-122.277909">
+<ele>45</ele>
+<time>2023-03-14T00:06:35Z</time></trkpt>
+<trkpt lat="37.875469" lon="-122.277998">
+<ele>45</ele>
+<time>2023-03-14T00:06:38Z</time></trkpt>
+<trkpt lat="37.875436" lon="-122.27803">
+<ele>45</ele>
+<time>2023-03-14T00:06:40Z</time></trkpt>
+<trkpt lat="37.875436" lon="-122.27803">
+<ele>45</ele>
+<time>2023-03-14T00:06:40Z</time></trkpt>
+<trkpt lat="37.875408" lon="-122.278057">
+<ele>45</ele>
+<time>2023-03-14T00:06:41Z</time></trkpt>
+<trkpt lat="37.875425" lon="-122.278114">
+<ele>45</ele>
+<time>2023-03-14T00:06:43Z</time></trkpt>
+<trkpt lat="37.874921" lon="-122.282081">
+<ele>36</ele>
+<time>2023-03-14T00:08:50Z</time></trkpt>
+<trkpt lat="37.874848" lon="-122.282535">
+<ele>35</ele>
+<time>2023-03-14T00:09:05Z</time></trkpt>
+<trkpt lat="37.874744" lon="-122.283306">
+<ele>33</ele>
+<time>2023-03-14T00:09:29Z</time></trkpt>
+<trkpt lat="37.87459" lon="-122.284679">
+<ele>30</ele>
+<time>2023-03-14T00:10:13Z</time></trkpt>
+<trkpt lat="37.874544" lon="-122.284772">
+<ele>30</ele>
+<time>2023-03-14T00:10:17Z</time></trkpt>
+<trkpt lat="37.874601" lon="-122.284855">
+<ele>30</ele>
+<time>2023-03-14T00:10:20Z</time></trkpt>
+<trkpt lat="37.874578" lon="-122.284877">
+<ele>30</ele>
+<time>2023-03-14T00:10:21Z</time></trkpt>
+<trkpt lat="37.87456" lon="-122.284944">
+<ele>30</ele>
+<time>2023-03-14T00:10:24Z</time></trkpt>
+<trkpt lat="37.87347" lon="-122.29341">
+<ele>13</ele>
+<time>2023-03-14T00:14:55Z</time></trkpt>
+<trkpt lat="37.87347" lon="-122.29341">
+<ele>13</ele>
+<time>2023-03-14T00:14:55Z</time></trkpt>
+<trkpt lat="37.87456" lon="-122.284944">
+<ele>30</ele>
+<time>2023-03-14T00:19:26Z</time></trkpt>
+<trkpt lat="37.874578" lon="-122.284877">
+<ele>30</ele>
+<time>2023-03-14T00:19:29Z</time></trkpt>
+<trkpt lat="37.874601" lon="-122.284855">
+<ele>30</ele>
+<time>2023-03-14T00:19:30Z</time></trkpt>
+<trkpt lat="37.874544" lon="-122.284772">
+<ele>30</ele>
+<time>2023-03-14T00:19:33Z</time></trkpt>
+<trkpt lat="37.87459" lon="-122.284679">
+<ele>30</ele>
+<time>2023-03-14T00:19:37Z</time></trkpt>
+<trkpt lat="37.874631" lon="-122.284371">
+<ele>31</ele>
+<time>2023-03-14T00:19:47Z</time></trkpt>
+<trkpt lat="37.874637" lon="-122.284204">
+<ele>32</ele>
+<time>2023-03-14T00:19:52Z</time></trkpt>
+<trkpt lat="37.87476" lon="-122.283174">
+<ele>34</ele>
+<time>2023-03-14T00:20:25Z</time></trkpt>
+<trkpt lat="37.874921" lon="-122.282081">
+<ele>36</ele>
+<time>2023-03-14T00:21:00Z</time></trkpt>
+<trkpt lat="37.875425" lon="-122.278114">
+<ele>45</ele>
+<time>2023-03-14T00:23:07Z</time></trkpt>
+<trkpt lat="37.875408" lon="-122.278057">
+<ele>45</ele>
+<time>2023-03-14T00:23:09Z</time></trkpt>
+<trkpt lat="37.875436" lon="-122.27803">
+<ele>45</ele>
+<time>2023-03-14T00:23:10Z</time></trkpt>
+<trkpt lat="37.875436" lon="-122.27803">
+<ele>45</ele>
+<time>2023-03-14T00:23:10Z</time></trkpt>
+<trkpt lat="37.875469" lon="-122.277998">
+<ele>45</ele>
+<time>2023-03-14T00:23:12Z</time></trkpt>
+<trkpt lat="37.875452" lon="-122.277909">
+<ele>45</ele>
+<time>2023-03-14T00:23:15Z</time></trkpt>
+<trkpt lat="37.876884" lon="-122.266668">
+<ele>79</ele>
+<time>2023-03-14T00:29:15Z</time></trkpt>
+<trkpt lat="37.877008" lon="-122.265744">
+<ele>84</ele>
+<time>2023-03-14T00:29:45Z</time></trkpt>
+<trkpt lat="37.877044" lon="-122.265618">
+<ele>85</ele>
+<time>2023-03-14T00:29:49Z</time></trkpt>
+<trkpt lat="37.877058" lon="-122.265618">
+<ele>85</ele>
+<time>2023-03-14T00:29:50Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

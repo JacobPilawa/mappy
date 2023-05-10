@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<wpt lat="37.87502" lon="-122.27439">
+<time>2023-03-14T00:20:34Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</wpt>
+<trk>
+<name>22823</name>
+<trkseg>
+<trkpt lat="37.87501" lon="-122.27438">
+<ele>53</ele>
+<time>2023-03-14T00:00:00Z</time></trkpt>
+<trkpt lat="37.87484" lon="-122.27568">
+<ele>49</ele>
+<time>2023-03-14T00:00:42Z</time></trkpt>
+<trkpt lat="37.87453" lon="-122.27794">
+<ele>44</ele>
+<time>2023-03-14T00:01:54Z</time></trkpt>
+<trkpt lat="37.86273" lon="-122.27661">
+<ele>34</ele>
+<time>2023-03-14T00:09:49Z</time></trkpt>
+<trkpt lat="37.86307" lon="-122.27443">
+<ele>37</ele>
+<time>2023-03-14T00:10:59Z</time></trkpt>
+<trkpt lat="37.87301" lon="-122.27547">
+<ele>48</ele>
+<time>2023-03-14T00:17:39Z</time></trkpt>
+<trkpt lat="37.87336" lon="-122.27321">
+<ele>54</ele>
+<time>2023-03-14T00:18:52Z</time></trkpt>
+<trkpt lat="37.87514" lon="-122.27343">
+<ele>57</ele>
+<time>2023-03-14T00:20:04Z</time></trkpt>
+<trkpt lat="37.87502" lon="-122.27439">
+<ele>53</ele>
+<time>2023-03-14T00:20:34Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

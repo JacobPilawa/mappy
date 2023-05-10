@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<wpt lat="37.87499" lon="-122.274394">
+<time>2023-05-10T00:00:00Z</time>
+<name>Start on F</name>
+<cmt>Start on Francisco Street</cmt>
+<desc>Start on Francisco Street</desc>
+<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="37.874826" lon="-122.275681">
+<time>2023-05-10T00:01:35Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Grant Street</cmt>
+<desc>Turn right onto Grant Street</desc>
+<sym>Right</sym>
+</wpt>
+<wpt lat="37.87573" lon="-122.275783">
+<time>2023-05-10T00:03:11Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Virginia Street</cmt>
+<desc>Turn left onto Virginia Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.875875" lon="-122.274651">
+<time>2023-05-10T00:04:56Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Josephine Street</cmt>
+<desc>Turn left onto Josephine Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.884538" lon="-122.275599">
+<time>2023-05-10T00:20:51Z</time>
+<name>Keep left </name>
+<cmt>Keep left onto Josephine Street</cmt>
+<desc>Keep left onto Josephine Street</desc>
+<sym>U-turn</sym>
+</wpt>
+<wpt lat="37.875875" lon="-122.274651">
+<time>2023-05-10T00:36:04Z</time>
+<name>Turn right</name>
+<cmt>Turn right onto Virginia Street</cmt>
+<desc>Turn right onto Virginia Street</desc>
+<sym>Right</sym>
+</wpt>
+<wpt lat="37.87573" lon="-122.275783">
+<time>2023-05-10T00:37:29Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Grant Street</cmt>
+<desc>Turn left onto Grant Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.874826" lon="-122.275681">
+<time>2023-05-10T00:39:02Z</time>
+<name>Turn left </name>
+<cmt>Turn left onto Francisco Street</cmt>
+<desc>Turn left onto Francisco Street</desc>
+<sym>Left</sym>
+</wpt>
+<wpt lat="37.874991" lon="-122.274383">
+<time>2023-05-10T00:40:50Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+</wpt>
+<trk>
+<name>43023</name>
+<trkseg>
+<trkpt lat="37.87499" lon="-122.274394">
+<ele>53</ele>
+<time>2023-05-10T00:00:00Z</time></trkpt>
+<trkpt lat="37.87499" lon="-122.274394">
+<ele>53</ele>
+<time>2023-05-10T00:00:00Z</time></trkpt>
+<trkpt lat="37.874828" lon="-122.275663">
+<ele>49</ele>
+<time>2023-05-10T00:01:34Z</time></trkpt>
+<trkpt lat="37.874828" lon="-122.275663">
+<ele>49</ele>
+<time>2023-05-10T00:01:34Z</time></trkpt>
+<trkpt lat="37.874826" lon="-122.275681">
+<ele>49</ele>
+<time>2023-05-10T00:01:35Z</time></trkpt>
+<trkpt lat="37.87573" lon="-122.275783">
+<ele>50</ele>
+<time>2023-05-10T00:03:11Z</time></trkpt>
+<trkpt lat="37.875729" lon="-122.275793">
+<ele>50</ele>
+<time>2023-05-10T00:03:12Z</time></trkpt>
+<trkpt lat="37.875729" lon="-122.275793">
+<ele>50</ele>
+<time>2023-05-10T00:03:12Z</time></trkpt>
+<trkpt lat="37.875875" lon="-122.274651">
+<ele>53</ele>
+<time>2023-05-10T00:04:56Z</time></trkpt>
+<trkpt lat="37.875887" lon="-122.274652">
+<ele>53</ele>
+<time>2023-05-10T00:04:57Z</time></trkpt>
+<trkpt lat="37.875887" lon="-122.274652">
+<ele>53</ele>
+<time>2023-05-10T00:04:57Z</time></trkpt>
+<trkpt lat="37.877592" lon="-122.274843">
+<ele>55</ele>
+<time>2023-05-10T00:08:04Z</time></trkpt>
+<trkpt lat="37.877772" lon="-122.274832">
+<ele>55</ele>
+<time>2023-05-10T00:08:23Z</time></trkpt>
+<trkpt lat="37.884538" lon="-122.275599">
+<ele>58</ele>
+<time>2023-05-10T00:20:51Z</time></trkpt>
+<trkpt lat="37.884596" lon="-122.275646">
+<ele>58</ele>
+<time>2023-05-10T00:20:58Z</time></trkpt>
+<trkpt lat="37.884596" lon="-122.275646">
+<ele>58</ele>
+<time>2023-05-10T00:20:58Z</time></trkpt>
+<trkpt lat="37.884538" lon="-122.275599">
+<ele>58</ele>
+<time>2023-05-10T00:21:05Z</time></trkpt>
+<trkpt lat="37.877772" lon="-122.274832">
+<ele>55</ele>
+<time>2023-05-10T00:32:59Z</time></trkpt>
+<trkpt lat="37.877592" lon="-122.274843">
+<ele>55</ele>
+<time>2023-05-10T00:33:17Z</time></trkpt>
+<trkpt lat="37.875875" lon="-122.274651">
+<ele>53</ele>
+<time>2023-05-10T00:36:04Z</time></trkpt>
+<trkpt lat="37.875873" lon="-122.274668">
+<ele>53</ele>
+<time>2023-05-10T00:36:05Z</time></trkpt>
+<trkpt lat="37.875873" lon="-122.274668">
+<ele>53</ele>
+<time>2023-05-10T00:36:05Z</time></trkpt>
+<trkpt lat="37.87573" lon="-122.275783">
+<ele>50</ele>
+<time>2023-05-10T00:37:29Z</time></trkpt>
+<trkpt lat="37.875726" lon="-122.275783">
+<ele>50</ele>
+<time>2023-05-10T00:37:30Z</time></trkpt>
+<trkpt lat="37.875726" lon="-122.275783">
+<ele>50</ele>
+<time>2023-05-10T00:37:30Z</time></trkpt>
+<trkpt lat="37.874836" lon="-122.275682">
+<ele>49</ele>
+<time>2023-05-10T00:39:01Z</time></trkpt>
+<trkpt lat="37.874836" lon="-122.275682">
+<ele>49</ele>
+<time>2023-05-10T00:39:01Z</time></trkpt>
+<trkpt lat="37.874826" lon="-122.275681">
+<ele>49</ele>
+<time>2023-05-10T00:39:02Z</time></trkpt>
+<trkpt lat="37.874991" lon="-122.274383">
+<ele>53</ele>
+<time>2023-05-10T00:40:50Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
